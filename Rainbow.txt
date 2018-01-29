@@ -2,7 +2,8 @@ These are the rainbow colors
 Violet
 Indigo
 Blue
+Green
 Orange
 Red
 
-These are all the colors???
+These are all the colors??
