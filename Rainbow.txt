@@ -3,7 +3,8 @@ Violet
 Indigo
 Blue
 Green
+Yellow
 Orange
 Red
 
-These are all the colors??
+These are all the colors!!!
